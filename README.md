@@ -6,7 +6,6 @@
 
 LinkedIn - https://www.linkedin.com/in/shubham-kudekar/ <br/> 
 GitHub - https://github.com/Shubhamsk1 </br>
-Portfolio - For portfolio connect with me.  <br/>
 
 --------
 
