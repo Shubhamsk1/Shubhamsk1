@@ -14,7 +14,7 @@ GitHub - https://github.com/Shubhamsk1 </br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamsk1)
 -->
 
-<hr/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubhamsk1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Shubhamsk1" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shubhamsk1&show_icons=true&locale=en&theme=chartreuse-dark" alt="Shubhamsk1" width="410" /></p>
 <br><br><br><br><br>
